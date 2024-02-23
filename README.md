@@ -34,8 +34,7 @@ The chatbot will respond with relevant information or perform tasks based on you
 Contributing
 Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-Credits
-This project was developed by Sai Prashanth.
+
 
 
 
